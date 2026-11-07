@@ -1,1 +1,11 @@
-##I AM ARMAN SAFARYAN
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">I AM ARMAN SAFARYAN</h1>
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">I AM ARMAN SAFARYAN</h1>
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">I AM ARMAN SAFARYAN</h1>
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">I AM ARMAN SAFARYAN</h1>
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">I AM ARMAN SAFARYAN</h1>
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">I AM ARMAN SAFARYAN</h1>
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">I AM ARMAN SAFARYAN</h1>
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">I AM ARMAN SAFARYAN</h1>
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">I AM ARMAN SAFARYAN</h1>
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">I AM ARMAN SAFARYAN</h1>
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">I AM ARMAN SAFARYAN</h1>
